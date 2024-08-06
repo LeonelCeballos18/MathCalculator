@@ -3,7 +3,7 @@ It is a desktop application designed to tackle complex mathematical operations w
 
 **Technologies**
 
-C++
+C#
 
 ---
 
